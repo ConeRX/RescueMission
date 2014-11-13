@@ -1,0 +1,2970 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+Gehe zu %s
+Ir a %s
+Schau an %s
+Mirar %s
+Rede mit %s
+Hablar con %s
+Gib !s an %s
+Dar !s a %s
+Gib %s
+Dar %s
+Nimm %s
+Recoger %s
+Benutze !s mit %s
+Usar !s con %s
+Benutze %s
+Usar %s
+Öffne %s
+Abrir %s
+Schließe %s
+Cerrar %s
+Drücke %s
+Empujar %s
+Ziehe %s
+Tirar %s
+Wechsle zu %s
+Cambiar a %s
+!s
+!s
+%s
+%s
+%d. 
+%d. 
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+SsNn
+a_button_give 5 802 803 Dd
+a_button_give 6 680 681 Zz
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 1 682 683 Ww
+a_button_use 1 794 795 Ww
+a_button_use 2 688 689 Ee
+a_button_open 3 790 791 Aa
+a_button_open 8 692 693 Cc
+a_button_look_at 0 788 789 Qq
+a_button_look_at 0 676 677 Qq
+a_button_push 7 798 799 Xx
+a_button_push 4 684 685 Ss
+a_button_close 4 796 797 Ss
+a_button_close 7 686 687 Xx
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 3 678 679 Aa
+a_button_pull 6 792 793 Yy
+a_button_pull 5 690 691 Dd
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+Das ist schon zu.
+
+Das ist schon offen.
+
+error: SetString buffer error!
+
+error: GetString buffer error!
+
+@
+
+%s%c
+%s%c
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+
+*ERROR*: Konnte %s nicht zu spielbaren Chars hinzufügen.
+
+Ist bereits vorhanden.
+
+Bereits drei spielbare Chars vorhanden.
+
+*ERROR*: Hier bin ich doch :)
+
+*ERROR*: Ne, %s ist nicht in der Liste!
+
+*ERROR*: Kann %s jetzt nicht entfernen.
+
+*ERROR*: Kann %s nicht entfernen, da er nicht hinzugefügt wurde.
+
+MMM_GO
+
+a_button_give
+
+a_button_pick_up
+
+a_button_use
+
+a_button_open
+
+a_button_look_at
+
+a_button_push
+
+a_button_close
+
+a_button_talk_to
+
+a_button_pull
+
+%s %s
+
+5
+
+2
+
+1
+
+3
+
+0
+
+7
+
+4
+
+8
+
+6
+
+42
+
+39
+
+38
+
+40
+
+37
+
+88
+
+41
+
+89
+
+43
+
+802
+
+800
+
+794
+
+790
+
+788
+
+798
+
+796
+
+804
+
+792
+
+119
+
+116
+
+91
+
+117
+
+90
+
+121
+
+118
+
+122
+
+120
+
+803
+
+801
+
+795
+
+791
+
+789
+
+799
+
+797
+
+805
+
+793
+
+Dd
+
+Ee
+
+Ww
+
+Aa
+
+Qq
+
+Xx
+
+Ss
+
+Cc
+
+Yy
+
+error: Talk view isn't assigned!
+
+%%%dc
+
+scrnshot.bmp
+
+Besser nicht.
+
+Tja, scheint nicht zu klappen.
+
+Toll.
+
+Da tut sich nichts.
+
+Da bewegt sich nichts.
+
+Es scheint nicht aufzugehen.
+
+Selbstgespräche zu führen kann Schizophrenie erzeugen. Also führe ich keine.
+
+Das klappt so nicht.
+
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+
+Wozu?
+
+Es bewegt sich nicht.
+
+Das lässt sich nicht öffnen.
+
+Das lässt sich nicht schließen.
+
+Das ist jemand anderes.
+
+Zu schwer.
+
+Das bringt nichts.
+
+Schließen? Gehts noch?
+
+Öffnen? Gehts noch?
+
+Benutzen? Gehts noch?
+
+Text
+
+Wie kann ich Ihnen dienen?
+
+Speichern
+
+Laden
+
+Spielen
+
+Beenden
+
+@OVERHOTSPOT@
+
+Pause.  Leertaste für weiter.
+
+Wählen Sie ein Spiel zum Laden
+
+Abbruch
+
+Name für das Spiel
+
+OK
+
+99.
+
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+
+Dave
+
+Syd
+
+Michael
+
+Wendy
+
+Bernard
+
+Razor
+
+Jeff
+
+Dr. Fred
+
+Nurse Edna
+
+Weird Ed
+
+Meteor
+
+Green Tentacle
+
+Purple Tentacle
+
+Mark Eteer
+
+Wink Smiley
+
+Police
+
+Sandy
+
+Marcy
+
+Britney
+
+Mandy
+
+Andy
+
+Koslowski
+
+Radiosprecher
+
+Postbote
+
+Fernbedienung
+
+dummy
+
+No hotspot
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+Start
+
+_tv_44_view_ 81
+
+Und natürlich Briefmarke nicht vergessen!
+
+Schalten sie auch Morgen wieder ein.
+
+Hotspot 1
+
+Hotspot 2
+
+[]~
+
+leeres-Starterpack]
+
+Rulaman (Original)
+
+]BETA-Tester]
+
+Rulaman
+
+]Graphiken]
+
+]Übersetzung für AGS 3.0]
+
+]AdventureGameStudio 3.0]
+
+Chris Jones
+
+]Credit-Modul:]
+
+SSH
+
+]Diese Episode:~
+
+<Autor>
+
+ [Idee:]
+
+] [zusätzliche Grafiken:]
+
+] [zusätzliches Skripting:]
+
+] [gewidmet:]
+
+allen Adventure-Freunden
+
+]~
+
+1. Schalter
+
+2. Schalter
+
+3. Schalter
+
+Zurück.
+
+Der Schalter ist gar nicht echt, der ist nur aufgemalt!
+
+Was bist du für ein Ding?
+
+Wo hast du den Benzinkanister her?
+
+Wiedersehen!
+
+Ich bin ein Tentakel.
+
+Und wo kommst du her?
+
+Aus dem Tollhaus.
+
+Ich gebs auf.
+
+Von ebay natürlich.
+
+Die ist abgeschlossen.
+
+Damit geht die Tür nicht auf.
+
+Damit geht die Tür nicht zu.
+
+Eine Tür.
+
+Die ist abgesperrt.
+
+Meine Zimmertür.
+
+Die Tür zum Kaminzimmer.
+
+Die Tür zum Flur.
+
+Die Tür zum anderen Dachbodenraum.
+
+Die Tür zur Küche.
+
+Die Tür zum Bad.
+
+Die Haustür.
+
+Da geht es zum Flur.
+
+Da geht es zum Wohnzimmer.
+
+Da geht es zur Bibliothek.
+
+Da geht es zum Esszimmer.
+
+Da geht es nach draußen.
+
+Da geht es rein.
+
+RMDEBUGFILE_1337
+
+Ach nö, will heute keine Türen schleppen.
+
+Man kann auch eine Tür 'öffnen' oder 'schließen'.
+
+Das ist doch zu.
+
+.
+
+Dem Geräusch nach zu urteilen ist irgendetwas passiert.
+
+Nur was?
+
+Eindeutig ein Sicherungskasten.
+
+Die Fernbedienung des Fernsehers.
+
+Meine Cashcard.
+
+Ein Lukenöffner.
+
+Der Haustürschlüssel.
+
+Der Schlüssel für mein Schlafzimmer.
+
+Ein Sofakissen.
+
+Den Schlüssel habe ich im Briefkasten gefunden.
+
+Eine Kerze, die wie ein Schlüssel geformt ist.
+
+Eine gut erhaltene Erstausgabe von \"Die geheimen Tagebücher der Britney.B\".
+
+Warum im Titel von mehreren Tagebüchern die Rede ist, obwohl es sich nur um ein einziges handelt, steht da aber leider auch nicht drin.
+
+Dafür müsste das Buch erstmal offen sein.
+
+Ein leeres Glas.
+
+Bei Zelda wäre das sehr wertvoll.
+
+Ein Glas, bis zum Rand gefüllt mit Milch.
+
+In dem Glas ist nun Milchsockensäure.
+
+Ein Glas, gefüllt mit Leitungswasser.
+
+Ich weiß nur nicht, wozu ich sowas brauchen soll.
+
+Ein Glas mit einer Socke darin.
+
+Die leere Packung brauche ich nicht mehr.
+
+Ich fass es nicht. Das funktioniert wirklich.
+
+Vorher muss das Wasser raus.
+
+Und rein da.
+
+Warum sollte ich das in das Glas stecken?
+
+Mein gutes Stück.
+
+Ein Türknauf, den ich abmontiert habe.
+
+Eine Packung Frischmilch.
+
+Ekelhaftes Zeug. Ich trinke nur abgekochte Milch.
+
+Ein stinkende Socke aus dem Wäschekorb.
+
+Entweder gibt es hier einen Sportler, oder die Socke lag schon eine LANGE Zeit in dem Korb.
+
+Diese Dinge kann ich nicht miteinander benutzen.
+
+Eine Stromkettensäge.
+
+Was ich damit vorhabe, erfahrt ihr in einer anderen Episode.
+
+Das klappt leider nicht.
+
+Das ist eine Stromkettensäge!
+
+Ein Kanister voll mit Benzin.
+
+Hätten wir den mal 1987 gehabt!
+
+Das ist die aktuelle Ausgabe des berühmten Fernsehmagazins TV-Spülwurm.
+
+He, auf MM-TV läuft heute die Maniac Mansion-TV-Serie!
+
+Dafür müsste die Zeitschrift erstmal offen sein.
+
+Das Chicagoer Handbuch für den thermodynamischen Fluxkompensator.
+
+Ich wette, das ist besser als eine Schlaftablette.
+
+\"So stellt man eine einfache, metallfressende Säure her:
+
+Man gieße frische Milch in einen leeren und gewaschenen Glas-Behälter...
+
+...und taucht eine stinkende Socke in die Milch.
+
+Sobald die Socke sich komplett aufgelöst hat, verwandelt sich die Milch in grüne Säure.
+
+Mit Ausnahme von Holz, Glas und Titan ätzt die Milchsockensäure nahezu alles weg.
+
+Warnhinweis: Die Säure außerhalb der Reichweite von Kindern und Haustieren aufbewahren!\"
+
+Ein alter Handschuh aus Gummi. Leitet daher keinen Strom.
+
+Sowas habe ich noch nie gesehen.
+
+!
+
+Ich weiß, woran du gedacht hast.
+
+Und es gefällt mir nicht!
+
+Wenn schon ein Haustier, dann schon eine Katze!
+
+Ich öffne keine Lebewesen.
+
+Das ergibt keinen Sinn.
+
+Ich fasse das Ding nicht an!
+
+Hallo!
+
+%d
+
+Skriptfehler!!!111111einself
+
+9
+
+New Label
+
+<-
+
+I
+
+X
+
+Grün>t
+
+Kevin
+
+Makler
+
+Cashcard
+
+Lukenöffner
+
+Schlüssel
+
+Zimmerschlüssel
+
+Sitzkissen
+
+Kerzenschlüssel
+
+Tagebuch
+
+Glas
+
+Türknauf
+
+Milchpackung
+
+Socke
+
+Kettensäge
+
+Benzinkanister
+
+Schraubenzieher
+
+TV-Spülwurm
+
+Handbuch
+
+Buch über Alchemie
+
+Gummihandschuh
+
+Es war Wochenende und Bernard arbeitete an einem neuem Projekt.
+
+Ein Sicherheitssystem für sein Haus um genau zu sein. Er war es inzwischen Leid, dass Hinz und Kunz dort reinlatschen kann.
+
+Dieses System wollte er seinem Freund Kevin zeigen, den er in einem Chat als \"Darth Rayden\" kennengelernt hatte. Kevin ist aus beruflichen Gründen nach Ronville gezogen.
+
+Aber es kam mal wieder alles anders...
+
+]Episode 38: Rescue Mission
+
+] [Idee, Handlung, Rätseldesign, Scripting]
+
+ConeRX
+
+] [Verwendete Engine
+
+Adventure Game Studio 3.3
+
+] [Verwende Starterpacks
+
+Kevin und Bernard
+
+] [zusätzliche Grafiken]
+
+oder entliehen aus folgenden Episoden/Spielen
+
+Kamin - Maniac Mansion Deluxe
+
+Chuck, die Pflanze - Maniac Mansion Deluxe
+
+Schwarzer Sessel - Maniac Mansion
+
+C32 - Rhythmen zum Reinbeißen
+
+Zak McKraken-Poster - Maniac Mansion Deluxe
+
+Monkey Island-Poster - Giga Mansion
+
+Scabb Island-Poster - Monkey Island 2
+
+Chuck, die Pflanze (schon wieder) - Maniac Mansion Deluxe
+
+Maniac Mansion Mania-Poster - The Tales of the Weird Ed
+
+Kettensäge - Maniac Mansion Deluxe
+
+Leeres Glas - Maniac Mansion Deluxe
+
+Milchpackung - Presserummel
+
+Kerzenschlüssel - Geschwisterliebe
+
+Alle anderen Schlüssel - Maniac Mansion Deluxe
+
+Miss Mummy-Poster - Maniac Mansion Deluxe
+
+Phonoschrank - Die Abfuhr
+
+Ventilator - Die Abfuhr
+
+Wäschekorb - Unruhen
+
+Telefon - Radioaktiv
+
+Eingabefeld - Maniac Mansion
+
+Eimer - Das Labor
+
+Sicherungskasten (bearbeitet) - Maniac Mansion Deluxe
+
+Benzinkanister - Die neuen Abenteuer des Zak McKraken
+
+CashCard (bearbeitet) - Die neuen Abenteuer des Zak McKraken
+
+Waschmaschine - Presserummel
+
+Bretter (bearbeitet) - Maniac Mansion
+
+Lukenöffner - Bernard-Starterpack
+
+Fernbedienung - Bernard-Starterpack
+
+Alchemiebuch - Rhythmen zum Reinbeißen
+
+Britneys Tagebuch - Bernard-Starterpack
+
+TV-Spülwurm - Right Said Fred?!
+
+Handbuch - Day of the Tentacle
+
+Lampe aufm Dachboden - Maniac Mansion Deluxe
+
+] [Neue Charaktere]
+
+ConeRX - Grafik basiert auf Dave und Syd
+
+ConeRX - Grafik basiert auf Mark Eteer]
+
+][ Musik]
+
+Midis des Starterpacks]
+
+Maniac Mansion
+
+RTP des RPG Maker 2000
+
+Street Fighter 2]
+
+][ Betatester der Episode]
+
+Kiwa, Endres]
+
+][Kevin Starterpack]
+
+ConeRX (Original)
+
+Rulaman (AGS3)
+
+]Betatester]
+
+]Grafiken]
+
+][Bernard Starterpack]
+
+LucasFan
+
+]Übersetzung für AGS 3.2]
+
+ZAK
+
+][AdventureGameStudio 3.3
+
+AGS-Community
+
+]Credit-Modul]
+
+Leer.
+
+Ich brauche kein Schranktürchen.
+
+Wie wäre es mit schließen?
+
+Die ist schon auf.
+
+Ich wüsste nicht, warum ich das in die Schublade legen sollte.
+
+Meine CashCard.
+
+Und mit was, wenn sie auf dem Tisch liegt?
+
+Plastik lässt sich nicht öffnen.
+
+Ich könnte sie falten, aber dann geht sie kaputt.
+
+Ich will sie nicht verrücken.
+
+Ich sollte sie nehmen.
+
+Ich brauche keine Schublade.
+
+Da liegt mein Schraubzieher.
+
+Ein Maniac Mansion Mania Poster.
+
+Ich lass es, wo es ist.
+
+Mit was?
+
+Wie soll das gehen?
+
+Ich kann es nicht in die Wand drücken.
+
+Nein.
+
+Das ist eine Schublade.
+
+Ich will sie nicht mit mir herumtragen.
+
+Wie wäre es mit öffnen?
+
+Ich kann sie nicht weiter rein drücken.
+
+Da ist jetzt Doors XP drauf.
+
+Aber nicht mehr lange und es wird Eduntu Linox weichen.
+
+Der bleibt da stehen.
+
+Dafür habe ich jetzt keine Zeit.
+
+Es gibt keinen Grund, den zu öffnen.
+
+Der ist schon zu.
+
+Warum sollte ich den Computer aufschrauben?
+
+Das klappt nicht.
+
+Mein gemütliches Bett.
+
+So viel kann ich nicht tragen.
+
+Null Bock.
+
+Ich besitze keinen Bettkasten.
+
+Ich besitze keinen Bettkasten, welchen ich schließen könnte.
+
+Klassischer Satz: Ich kann es nicht bewegen.
+
+Mein Telefon.
+
+Ich benutze dafür mein Mobile.
+
+Ich habe es nur damit ich ins Internet kann.
+
+Das geht so nicht.
+
+Das ist ein Schränkchen.
+
+Ich will es nicht mit mir herumtragen.
+
+Ich kann es nicht weiter rein drücken.
+
+Ich wüsste nicht, warum ich das in das Schränkchen legen sollte.
+
+Schöne Aussicht.
+
+Das ist im Mauerwerk verankert.
+
+Nein, ich könnte rausfallen.
+
+Ist doch schon zu.
+
+Und damit das Fenster verkratzen.
+
+Tür>v
+
+Poster>l
+
+Schublade>o
+
+Computer
+
+Bett>u
+
+Telefon>l
+
+Schrank>o
+
+Fenster
+
+Tür
+
+Schrank>c
+
+CashCard>p
+
+Schublade>c
+
+Die Treppe in das Erdgeschoß.
+
+Die lässt sich nicht transportieren.
+
+Ich sollte einfach darauf zulaufen.
+
+Die Stufen lassen sich abnehmen.
+
+Die Stufen passen.
+
+Das lässt die Treppe nicht mit sich machen.
+
+Das will ich nicht auf die Treppe legen.
+
+Ein Fenster.
+
+Ich nehme doch keine Fenster.
+
+Ich will es nicht öffnen.
+
+Warum sollte ich?
+
+Das Fenster ist bereits zu.
+
+Das Fenster lässt mich nicht.
+
+Und das Fenster damit beschädigen?
+
+Scabb Island.
+
+Ich finde, dass es dort gut hängt.
+
+Ein schönes Bild.
+
+Nein, hinter dem Gemälde befindet sich kein Geheimfach.
+
+Das geht mit einem Bild nicht.
+
+Das Gemälde hängt da ganz gut.
+
+Das könnte die Farbe verschmieren.
+
+Chuck, DER Bestseller in den Ronville Blumenläden.
+
+Ich finde, dass sie dort ganz gut steht.
+
+Ich könnte mir ein Blatt nehmen, aber ...
+
+Der Satz 'öffne Pflanze' ist irgendwie unlogisch.
+
+Der Satz 'schließe Pflanze' ist irgendwie unlogisch.
+
+Die steht da ganz gut.
+
+Das macht sich in der Pflanzenerde nicht gut.
+
+Gemälde
+
+Treppe
+
+Chuck
+
+Da geht es nach nebenan.
+
+Hab ich letztens bei ebay ersteigert.
+
+Der Verkäufer hieß \"Edna-Mausi69\". Bernard riet mir zwar ab, aber ich musste diesen Sessel haben.
+
+Momentan nicht.
+
+Keine Zeit.
+
+Das würde meinen kostbaren Sessel zerstören.
+
+Ich habe nichts um ihn abzudecken.
+
+Der steht da gut.
+
+Das will ich nicht auf den Sessel legen.
+
+\"Grüns Essen\"
+
+Jetzt auch ohne Deppenapostroph!
+
+Hängt dort doch ganz gut.
+
+Womit?
+
+Dahinter ist nichts.
+
+Da gibt es nichts zu schließen.
+
+Das passt so.
+
+Das bringt mir nichts.
+
+Die Luke zum Dachboden.
+
+Der Lukenöffner.
+
+Wenn ich was zum Öffnen hätte, könnte ich das damit versuchen.
+
+Das geht nicht.
+
+Ich komme nicht ran.
+
+Wenn ich was zum öffnen hätte, könnte ich das damit versuchen.
+
+Die Luke ist schon zu.
+
+Klasse, mit Lukenöffner geht es.
+
+Mein Kamin.
+
+Da ist ja mein Lukenöffner!
+
+Wie ist der denn da hin gekommen?
+
+Haha. Genau.
+
+Mir fehlt Brenn- und ein Strichholz.
+
+Da ist kein Geheimfach dahinter. Zumindest glaube ich dass.
+
+Der hat keine Tür zum schließen.
+
+So funktioniert das nicht.
+
+Das will ich nicht verbrennen.
+
+Das ist Chucky die Mörderpflanze.
+
+Nein, die beißt.
+
+Gießen wäre besser.
+
+Das würde sie nicht mit sich machen lassen.
+
+Das frisst sie nur.
+
+Ein nicht zu öffnendes Fenster.
+
+Das ist fest gemacht.
+
+Computerraum
+
+Luke
+
+Kamin
+
+Luke (offen)
+
+Schwarzer Sessel (TM)
+
+'Grüns Essen'
+
+Ich brauche diese Schublade nicht
+
+Und wie soll ich dass?
+
+Die ist doch schon auf.
+
+Das will ich nicht da reinlegen.
+
+Mein Computer. Selbst zusammen geschraubt.
+
+Der ist mir zu schwer um ihn sinnlos mitzunehmen.
+
+Da ist Linox drauf.
+
+Ich habe im Moment keine Lust.
+
+Da ist ein Fenster-OS drauf.
+
+Vielleicht später.
+
+Da ist momentan nichts installiert.
+
+Der ist nicht defekt.
+
+Der ist bereits verschraubt.
+
+Da drunter ist kein Staub.
+
+Hab ich bei ebay ersteigert.
+
+Der Seller hieß 'R-Gilb'.
+
+Ich lass es wo es ist.
+
+Das teuer ersteigerte Poster?
+
+Das Poster verweigert mir die Zusammenarbeit.
+
+OK, ich drücke die Haftis nochmals an die Wand.
+
+Das Poster bleibt an der Wnad. Ich ziehe nicht.
+
+Und riskieren, dass es beschädigt wird?
+
+Ein alter C32.
+
+Bist du verrückt? Ich bin froh dass er noch läuft, so wie der ausschaut.
+
+Nein, das würde zu lange dauern.
+
+Der ist nicht defekt und muss deshalb auch nicht geöffnet werden.
+
+Der wird nie verschoben.
+
+Nein, damit nicht.
+
+Mein Ex-Kollege hat die Buchvorlage geschrieben.
+
+Da hängt es doch gut.
+
+Das lässt das Poster nicht zu.
+
+Ein Poster schließen?
+
+Das will ich nicht.
+
+Fenster sind im Allgemeinen mit dem Mauerwerk verbunden.
+
+Es ist bereits eine gute Luft hier herinnen.
+
+Das bleibt zu.
+
+Das bringt mir gar nichts.
+
+Ich will sie nicht mit mir herrumtragen.
+
+Die ist doch schon zu.
+
+Das ist ein Schrank.
+
+Öffnen wäre sinnvoller.
+
+Poster
+
+Kaminzimmer
+
+C32
+
+Schon mal eine Tür aus ihren Angeln gerissen?
+
+Sie ist verschlossen und ich habe keinen Schlüssel.
+
+Da muss ich nochmal mit meinem Markler drüber sprechen.
+
+Geht ohne Türknauf schlecht.
+
+Die Tür ist bereits zu.
+
+Dafür sehe ich keinen Grund.
+
+Ich brauche den Türknauf nicht.
+
+Ich habe den Türknauf bereits abmontiert.
+
+Das ist nicht der richtige Schlüssel.
+
+Warum sollte ich den Türknauf wieder dran schrauben?
+
+Die Tür hat bereits einen Türknauf.
+
+Diesen Gegenstand kann ich nicht mit der Tür benutzen.
+
+Da unten ist mein Kaminzimmer.
+
+Die Luke ist zu. Vermutlich hat sie jemand von unten zugemacht.
+
+Ich komme hier nicht raus.
+
+Die Luke kann man nur von unten öffnen.
+
+Die Luke ist bereits auf.
+
+Die Luke ist bereits zu.
+
+Die lässt sich nur von unten schließen.
+
+Dann fällt es in das untere Zimmer.
+
+Ich brauche keine Pause.
+
+Dann fällt nur die Füllung raus.
+
+Weich.
+
+Zu schwer zum ziehen.
+
+Ich sollte sie erst nehmen.
+
+Ich brauche keine Batterien.
+
+Die ist verschlossen.
+
+Dann fällt sie von der Armlehne.
+
+Einige Bücher ...
+
+... die ich nie gelesen habe.
+
+Was sind das überhaupt für Bücher?
+
+Zur Zeit habe ich keine Lust zum Lesen.
+
+Dazu müsste ich sie nehmen. Aber das will ich nicht.
+
+Die sind bereits verschlossen.
+
+Eine stehengebliebene Uhr.
+
+Die Uhr brauche ich nicht.
+
+Sie zeigt halb vier.
+
+Die Uhr hat keinen Glasdeckel.
+
+Die bleibt da hängen.
+
+Damit wird die Uhr nicht repariert.
+
+Mein neuer THX Fernseher.
+
+Der ist mir zu schwer.
+
+Dazu brauche ich eine Fernbedienung.
+
+Da gibt es nichts zu ziehen.
+
+Klick.
+
+Das soll das denn bringen?
+
+Im Paar gab es sie billiger.
+
+Ich schleppe keine Sessel mit mir herum.
+
+Ich möchte mich jetzt nicht setzen.
+
+Mit einem Wort. Nein!
+
+Da kann man elektronische Geräte dran anschließen.
+
+Dann hängen die Kabel heraus und ich könnte mir einen elektrischen Schlag holen.
+
+Ich brauche es nicht nachprüfen.
+
+DA ist Saft drauf.
+
+Eine Steckdose kann man nicht schließen.
+
+Und sie aus der Wand reißen?
+
+Die sitzt fest.
+
+Die einzige Lichtquelle hier.
+
+Ich nehme mir doch nicht die einzige Lichtquelle hier.
+
+Die Lampe ist bereits an.
+
+Die Lampe passt nur an diese Stelle, das bringt also nichts.
+
+Ich komme nicht an die Lampe ran.
+
+Bücher>l
+
+Uhr
+
+Fernseher
+
+Sessel
+
+Steckdose
+
+Lampe
+
+Ich nehme die Schublade nicht.
+
+Schließen wäre besser.
+
+Ist doch schon offen.
+
+Das will ich nicht in die Schublade legen.
+
+Ich kann aus dem Fenster sehen.
+
+Fenster lassen sich für gewöhnlich nicht nehmen.
+
+Draußen ist es hell.
+
+Mir ist mal der Griff abgebrochen.
+
+A: Mir ist mal der Griff abgebrochen.
+
+B: Es ist schon zu.
+
+Meine Schreibtischlampe.
+
+Ich denke die Lampe brauche ich nicht.
+
+Hier ist es doch noch hell genug.
+
+Das hat keinen Sinn.
+
+Mein Bücherregal.
+
+Ich will jetzt nicht lesen.
+
+Glaube ich.
+
+Leere Blätter.
+
+Die liegen hier ganz gut.
+
+Ich brauche momentan kein Papier.
+
+Dazwischen ist kein falsches Blatt.
+
+Der Stapel liegt. Es braucht nichts geschlossen zu werden.
+
+Ich brauche keinen Stapel Papier verrücken.
+
+Außer einem Stift funktioniert das mit keinem meiner Gegenstände.
+
+Öffnen wäre besser.
+
+Die Schublade ist bereits zu.
+
+Erst sollte ich sie öffnen.
+
+Bücherregal
+
+Papierstapel
+
+Der Durchgang zum Eingangsflur.
+
+Der lässt sich nicht transportieren.
+
+Der ist schon offen.
+
+Dann kann ich nicht mehr durch.
+
+Das funktioniert nicht.
+
+Das will ich nicht durchwerfen.
+
+Flur
+
+Ein Schränkchen.
+
+Ich kann den Schrank nicht rausreißen.
+
+Und wie?
+
+Das ist nicht der korrekte Schrank für das Glas.
+
+Eine Mikrowelle. Standard-Modell.
+
+Die ist mir zu schwer.
+
+Wozu? Die Mikrowelle ist leer!
+
+Die ist schon offen.
+
+Die ist schon zu.
+
+Die bleibt da stehen.
+
+Das möchte ich nicht aufwärmen.
+
+Ich muss mir demnächst mal einen mit Gefrierfach kaufen.
+
+Ich war froh als er endlich hier stand. Der kommt mir erst weg, wenn ich einen neuen kaufe.
+
+Da steht: \"Vor Gebrauch öffnen.\"
+
+Der ist bereits zu.
+
+Er knarrt.
+
+Ich sollte ihn dazu erst öffnen.
+
+Ein geschlossener Küchenschrank.
+
+Ja klar.
+
+Nein danke.
+
+Erst öffnen, dann reinlegen.
+
+Mein Herd.
+
+Ich wüsste nicht, was ich da rein tun soll.
+
+Nicht jetzt.
+
+Der ist in die Küchenzeile eingelassen. Also keine Chance.
+
+Das brät so schlecht.
+
+Mein Geschirrspüler.
+
+Der ist in der Küche verbaut.
+
+Ich habe kein Geschirr bei mir.
+
+Ohne Geschirr brauche ich ihn auch nicht öffnen.
+
+Das ist kein Geschirr.
+
+Ich kann die Straße sehen.
+
+Ich kann das Fenster nicht rausreißen.
+
+Ich kann vielleicht durchschauen, es aber nicht benutzen.
+
+Die Küche braucht nicht gelüftet zu werden.
+
+Das Fenster ist zu.
+
+Das werfe ich nicht aus dem Fenster.
+
+Eine Schublade.
+
+Das ist ein Waschbecken.
+
+Das hättest du nicht gedacht, was?
+
+Dazu brauche ich erst einmal Werkzeug.
+
+Ich wasche mir die Hände im Bad.
+
+Der Abfluss ist bereits offen.
+
+Ich verstopfe den Abfluss nur, wenn ich Geschirr zu waschen habe.
+
+Das Glas ist leer. Da gibt es nichts zum ausschütten.
+
+Ich möchte die Milch nicht wegschütten.
+
+Ich brauche die Milchsockensäure noch.
+
+Mit der Socke würde ich die Spüle verstopfen.
+
+Damit würde ich die Spüle verstopfen.
+
+Da kommt Wasser raus.
+
+Dann läuft mir die Küche mit Wasser voll.
+
+Ich habe nichts, was ich waschen könnte.
+
+Der Hahn sitzt fest in der Wand.
+
+Ich möchte die Milch nicht mit Wasser verdünnen.
+
+Das würde die Milchsockensäure ruinieren.
+
+Da ist bereits Wasser drin.
+
+Ich möchte die Socke nicht nass machen. Die stinkt dann noch mehr.
+
+Ein Hängeschränkchen.
+
+Ein Doppelschrank.
+
+Der Schrank unter der Spüle.
+
+Die Mikrowellentür ist auf.
+
+Die Mikro ist noch zu.
+
+Laut Gebrauchsanweisung soll ich das nicht da reinlegen.
+
+Und was soll ich da reinlegen?
+
+Der ist schon auf.
+
+Die Tür knarrt.
+
+Ein leeres Glas muss nicht gekühlt werden.
+
+Ich brauche jetzt keine gekühlte Milch.
+
+Die Milchsockensäure muss nicht gekühlt werden.
+
+Das muss nicht gekühlt werden.
+
+Das gehört nicht in den Kühlschrank.
+
+Da steht nur ein Glas drin.
+
+Da ist nichts drin. Ich sollte vielleicht mal wieder einkaufen fahren.
+
+Der Schrank ist bereits auf.
+
+Ich stelle da kein volles Glas rein. Sonst vergesse ich es da drin und wenn ich es später wiederfinde lebt der Inhalt bereits.
+
+Dann vergesse ich es da drin wieder.
+
+Der Schrank ist schon auf.
+
+Eine schöne rote Kettensäge.
+
+Die möchte ich nicht öffnen.
+
+Alle Verschraubungen sind bereits zu.
+
+Die läuft ohne Strom nicht an.
+
+Aber einmal am Starter ziehen, damit der Kolben nicht fest frisst kann nicht schaden.
+
+Der Grundkörper federt.
+
+Diese Dinge kann man nicht miteinander benutzen.
+
+Eine Milchpackung wo sie hingehört.
+
+Ich sehe keinen Grund, die Packung zu öffnen.
+
+Die Packung ist noch genauso zu, wie zu dem Zeitpunkt als ich sie gekauft habe.
+
+Dann würde die ganze Milch oben rauskommen. Das möchte ich nicht.
+
+Ich kann sie auch einfach nehmen.
+
+Ich sollte die Milch dafür erstmal aus dem Kühlschrank nehmen.
+
+Diese Dinge möchte ich nicht mit der Milch benutzen.
+
+Ein leeres Glas
+
+Das Glas hat keinen Deckel zum öffnen.
+
+Das Glas hat keinen Deckel zum schließen.
+
+Das Glas zu bewegen, bringt auch nichts.
+
+Mikrowelle
+
+Kühlschrank>o
+
+Hängeschrank>o
+
+Herd
+
+Geschirrspüler
+
+Waschbecken
+
+Wasserhahn>v
+
+Doppelschrank>o
+
+Mikrowelle>c
+
+Kühlschrank>c
+
+Hängeschrank>c
+
+Doppelschrank>c
+
+Wasser
+
+Ein Wasserhahn.
+
+Der lässt sich nicht nehmen.
+
+Öffnen und schließen wäre besser.
+
+Ich möchte die Socke nicht nass machen. Die stinkt dann wahrscheinlich noch mehr.
+
+Damit kann ich nichts anfangen.
+
+Darin kann man sich die Hände waschen.
+
+Das ist an der Wand verschraubt und lässt sich nicht nehmen.
+
+Meine Hände sind sabuer genug.
+
+Den Abfluss möchte ich nicht verstopfen.
+
+Das muss nicht gewaschen werden.
+
+Ich bin der Beweis: Computerspiele machen schön.
+
+Der bleibt da hängen.
+
+Das funktioniert so nicht.
+
+Damit kann man den Spiegel nicht putzen.
+
+Da bade ich immer.
+
+Im Moment bin ich sauber genug.
+
+Überleg dir was anderes.
+
+Das hat in der Badewanne nichts zu suchen.
+
+Mein Fußabtreter.
+
+Ich mag blau.
+
+Der bleibt da liegen.
+
+Ich habe saubere Schuhe.
+
+Das kann ich nicht mit dem Fußabtreter benutzen.
+
+Meine Toilette.
+
+Das Porzellan bleibt da.
+
+Da wäre ich ganz gerne alleine!
+
+Wenn ich alleine bin.
+
+Die ist bereits zu.
+
+Das will ich die Toilette nicht hinunter spülen.
+
+Ich kann nach draußen sehen!
+
+Das bleibt so.
+
+Ich sehe nach draußen.
+
+Klassischer Satz: Ich kann es nicht öffnen!
+
+Das Fenster bleibt zu.
+
+Eine Zugkette.
+
+Die brauche ich am Spülkasten.
+
+Ich brauche die Kette ganz.
+
+Die Kette braucht nicht geschlossen zu werden.
+
+Sie schwingt unmerklich.
+
+Und wass willst du damit genau bewirken?
+
+Ein Duschkopf.
+
+Er ist nicht verstopft und muss deshalb auch nicht abmontiert werden.
+
+Der sitzt stramm auf dem Rohr.
+
+Da wackelt nichts.
+
+Das passt nicht durch die Löcher.
+
+Meine Waschmaschine.
+
+Ich wasche doch nicht die Schmutzwäsche von fremden Leuten.
+
+Im Moment habe ich keine dreckigen Klamotten.
+
+Die steht da gut.
+
+Spiegel
+
+Badewanne
+
+Fußabtreter
+
+Toilette
+
+Kette>y
+
+Duschkopf
+
+Waschmaschine
+
+Der Durchgang zum Flur.
+
+Da hänge ich meine Schlüssel auf.
+
+Der hängt da genau richtig.
+
+Mit welchen Schlüssel?
+
+Den kann ich nicht noch weiter in die Wand drücken.
+
+Den behalte ich lieber bei mir. Für den Fall, dass ich mich aussperre.
+
+Ich hänge keine fremden Schlüssel bei mir auf.
+
+Das ist kein Schlüssel.
+
+Kleiderhaken für meine Kleidung.
+
+Und womit?
+
+Das hänge ich nicht da ran.
+
+Abstellbänke.
+
+Die will ich nicht nehmen.
+
+Die würden unter meinem Gewicht zusammenbrechen.
+
+Das will ich nicht da drauf legen.
+
+Schlüsselhaken
+
+Kleiderhaken
+
+Abstellbänke
+
+Haustürschlüssel>p
+
+Schlüssel>p
+
+Sobald sie hier unterschrieben haben, gehört das Haus endgültig Ihnen.
+
+Alle meine Sachen sind schon drin, aber erst wenn ich da unterschreibe gehört es mir?
+
+Ja.
+
+Ich muss dann mal los. Ich habe einem Kumpel versprochen, bei ihm vorbeizuschauen.
+
+Aufwiedersehen.
+
+Lucas Valley Road 13.
+
+Nichts drin.
+
+Den ganzen Briefkasten doch nicht.
+
+Ich habe gerade keine Post zu verschicken.
+
+Es ist doch zu.
+
+Er beweget sich nicht.
+
+Dann sollte ich es auch ausreichend frankieren.
+
+Ein Briefkastenfähnchen.
+
+Das will ich nicht mitnehmen.
+
+Das kann man nicht öffnen.
+
+Das kann ich nicht schließen.
+
+Ich habe bereits daran gezogen.
+
+Ich kann es nicht drücken.
+
+Das kann ich hier nicht benutzen.
+
+Ich kann die Küche sehen.
+
+Von außen geht das schon zweimal nicht.
+
+Das ist doch schon zu.
+
+Ich kann das Badezimmer sehen.
+
+Meine Haustürklingel.
+
+Ich bin doch hier.
+
+Er steht doch neben mir.
+
+Na gut.
+
+ Und damit auf die Klingel drücken? Ne.
+
+Meine Hausnummer. Die 13.
+
+Die ist aufgemalt.
+
+Da steht: 13.
+
+Haha, guter Scherz.
+
+Da wäre mir ein Mädchen lieber.
+
+Haustürklingel
+
+Hausnummer
+
+Briefkasten
+
+Zeiger
+
+Abgeschmiert!
+
+Der ist doch leer.
+
+Arbeitsplatz
+
+Papierkorb
+
+So und noch ein paar Bugs in den Code schreiben und fertig!
+
+Mein neues Sicherheitssystem ist fertig!
+
+Wenn Darth Rayden hier ist, wird er begeistert sein!
+
+#brumm#
+
+#scramm#
+
+#klapper#
+
+Ein Umzugswagen?
+
+Oh nein!
+
+Er ist schon hier!
+
+Ich muss das System nochmal testen!
+
+So, einschalten
+
+Gut, alles läuft einwandfrei.
+
+Und nun ausschalten.
+
+Ausschalten!
+
+AUSSCHALTEN!!!
+
+Doors XP ist abgestürzt!
+
+Wenn ich diesen Phil Gates mal treffe...
+
+Ich kann nur hoffen, Darth Rayden findet hierher.
+
+Na endlich hat mich jemand gefunden.
+
+Und mein Sicherheitssystem hast du somit auch umgangen.
+
+DEIN Sicherheitssystem? Dann must du Bernard sein.
+
+Aha und du bist dann Darth Rayden?
+
+Ja, aber mein richtiger Name lautet Kevin.
+
+Gut merke ich mir. Ach ja, Glückwunsch das du mein Sicherheitssystem umgangen hast!
+
+Für einen Viedeospieler wie mich ist auch so ein reales Sicherheitssystem ein Klacks!
+
+Ach?
+
+Mal eine Frage: Was ist das für ein \"Tier\" auf dem Dachboden?
+
+Meinst du Grün?
+
+Ja, dieses grüne Ding das sagt es käme aus dem Tollhaus.
+
+Grün ist ein Tentakel und kein Ding.
+
+Und wo kommt Grün her?
+
+Der dort lebende verrückte Wissenschaftler hat die Tentakel als Haustiere erschaffen.
+
+Die ganze Geschichte spar ich mir für ein anderes mal auf.
+
+Ach ja, ich habe gelesen das ab heute die Maniac Mansion TV-Serie läuft.
+
+Ich habe zwar gehört sie soll nicht der Bringer sein, aber man kann sie sich mal anschauen.
+
+Ich habe einen HDTV-Fernseher wir können ihn ja benutzen.
+
+Gut gehen wir.
+
+Ach ja, ich hab mir einen neuen HDTV-Fernseher gekauft.
+
+Kann ich mir den mal anschauen?
+
+Klar.
+
+'Gewinner des Eierkopfpreises.'
+
+Ich will es nicht beschädigen.
+
+Ich kann es nicht öffnen.
+
+Ich kann es nicht schliessen.
+
+Das passt hier nicht.
+
+Meine Lieblingsbücher.
+
+Von Physik bis Astronomie ist alles dabei.
+
+Oh, die kenne ich schon auswendig.
+
+Ich kenne alle Bücher auswendig.
+
+Geschlossene Lektüre.
+
+Ich lass sie wo sie sind.
+
+Ein 'Geschenk' von Dr. Fred.
+
+Ich vergreife mich nicht an wehrlosen Pflanzen.
+
+Es ist nur eine Pflanze.
+
+Ich lass sie wo sie ist.
+
+Die Bettdecke liegt mathematisch genau ... 
+
+Das bleibt da stehen.
+
+Noch zu viele Photonen im Raum.
+
+Die Decke liegt gerade so schön.
+
+Ich kann Hoagies Haus sehen.
+
+Ich brauche jetzt kein Fenster.
+
+Soll ich es öffnen, oder schliessen?
+
+Das ist kein echtes Fenster.
+
+Ein guter Tag für die Photosynthese.
+
+Nein. Ich könnte herausfallen.
+
+Die möchte ich nicht mitnehmen.
+
+Sie ist zu.
+
+Sie ist doch zu.
+
+Damit kann ich die Schublade nicht öffnen.
+
+Wir beide haben schon eine Menge Adventures erlebt!
+
+Das ist doch kein Laptop.
+
+Der funktioniert im Moment nicht.
+
+Ich habe Doors XP installiert.
+
+Das mache ich nicht.
+
+Der hat ein geschlossenes Gehäuse.
+
+Ich will ihn nicht verschieben.
+
+Ich möchte da nichts rein tun.
+
+Sie ist doch schon offen.
+
+Ich will sie nicht raus reissen.
+
+Das will ich nicht da rein tun.
+
+Meine Arbeit für Jugend forscht.
+
+Es hört einfach nicht auf, sich zu drehen.
+
+Im Moment brauche ich keine unerschöpfliche Energiequelle.
+
+Ich möchte im Moment nicht.
+
+Das mache ich jetzt nicht.
+
+Ich will es nicht verschieben.
+
+Mein flauschiges Daunenkissen.
+
+Diplom
+
+rechte Schublade>o
+
+linke Schublade>o
+
+Bücher
+
+Bett
+
+Perpetuum Mobile
+
+Kissen
+
+Ein Tür.
+
+Schon mal eine Tür aus ihren Angeln gerissen?.
+
+JAUL!
+
+Die sch... Tür steht unter Strom!
+
+Die Tür steht immer noch unter Strom.
+
+Das bringt herzlich wenig.
+
+Eine vernagelte Tür.
+
+Da will wohl jemand nicht wissen, was in dem Raum vor sich geht.
+
+Geht mit den Brettern davor nicht.
+
+Außerdem ist sind immer noch die Bretter.
+
+Würde ich ja gerne, aber die Bretter blockieren die Tür.
+
+Das muss ich schon mit den Brettern benutzen.
+
+Nur das Badezimmer.
+
+Da komme ich nicht ran.
+
+Soll ich sie öffnen, oder schliessen?
+
+Da geht es zum Dachboden.
+
+Die Leiter ist festgeschraubt.
+
+Ist schon offen.
+
+Die Bretter werde ich kaum einfach so aus der Wand reißen können.
+
+Die Bretter lassen sich nicht öffnen und die Tür auch nicht, solange die Bretter dort sind.
+
+Die Bretter sind nicht schließbar und die Tür dahinter ist bereits zu.
+
+Noch weiter reindrücken geht nicht.
+
+Und weg mit den Dingern!
+
+Gute Idee, nur leider gibt es da ein Problem:
+
+Die Kettensäge hat keinen Strom!
+
+Momentmal!
+
+Die Bretter sind nur ganz leicht angeschraubt!
+
+Damit kriege ich die Bretter auch nicht weg.
+
+Tür>o
+
+Leiter
+
+Bretter
+
+Ein Spiegel.
+
+Ich brauche jetzt keinen Spiegel.
+
+Ich sehe mich.
+
+Den kann man nicht öffnen.
+
+Es bewegt sich nichts.
+
+Lila. Warum muss es immer Lila sein?
+
+Der bleibt hier.
+
+Jetzt nicht.
+
+Ich wühle nicht im Schrank eines Mädchens.
+
+Normalerweise.
+
+Die bleibt hier.
+
+Da ist nur uninteressanter Frauenkram drin.
+
+Sie bewegt sich nicht.
+
+Nein. Ihre Kleider würden mir sowieso nicht passen.
+
+Er bewegt sich nicht.
+
+Sieht ziemlich abgenutzt aus.
+
+Das bleibt hier.
+
+Keine Chance. Wer weiß, wer oder was da schon alles lag.
+
+Nein. Ich fasse es nicht an.
+
+Soll ich es öffnen, oder schließen?
+
+Eine Luke im Boden.
+
+Bitte genauer!
+
+Man kann keine Luken aus dem Boden reißen.
+
+Die ist bereits off.
+
+Diese Dinge kann ich nicht zusammen benutzen.
+
+Ein sehr auffällig aussehender Teppich.
+
+Wenn ich eine Katze wäre, würde mich dort jetzt zusammenkauern.
+
+Keine Lust einen Teppich mit mir rum zu tragen.
+
+Da ist nichts drunter. Ich habe ihn selbst dort hingelegt.
+
+Einen Teppich kann man nicht öffnen.
+
+Einen Teppich kann man nicht schließen.
+
+Ich kann fühlen, dass sich etwas unter dem Teppich befindet.
+
+Kleiner Schrank
+
+Kommode
+
+Kleiderschrank
+
+Teppich
+
+Hier schlafen wohl Bernards Eltern.
+
+Das ist doch nur ein Bett.
+
+Ich will jetzt nicht schlafen.
+
+Das lässt sich nicht verschieben.
+
+Das will ich nicht auf das Bett legen.
+
+Ich kann ins Nachbarhaus sehen.
+
+Es klemmt.
+
+Ein Nachtschränkchen.
+
+So was nehme ich nicht mit.
+
+Soll ich mich da etwa drauf stellen?
+
+Der lässt sich nicht verschieben.
+
+Das will ich nicht auf das Schränkchen legen.
+
+Eine Lampe.
+
+Schon mal was von Taschenlampen gehört?
+
+Hier ist es hell genug.
+
+Sie sieht geschlossen aus.
+
+Ich lasse sie besser da stehen.
+
+Hinter dieser Wand befindet sich irgendetwas.
+
+Da lässt sich nichts benutzen.
+
+Da gibt es nichts zum öffnen.
+
+Da gibt es nichts zum schließen.
+
+Komm Wand, lass dich drücken!
+
+Ein leeres Nachtschränkchen.
+
+Die Tür ist schon offen.
+
+Das will ich nicht in das Schränkchen legen.
+
+Sieht aus wie ein Sicherungskasten.
+
+Den kann ich nicht aus der Wand reißen.
+
+Den kann ich nicht öffnen.
+
+Den kann ich nicht schließen.
+
+Den kann ich nicht weiter in die Wand drücken.
+
+Nachtschränkchen>o
+
+Wandfetzen
+
+Nachtschränkchen>c
+
+Sicherungskasten
+
+Von hier aus seh ich das Haus nebenan noch besser.
+
+\"An meinen schleimigsten Sohn, Mom.\"
+
+Ich will es nicht übermalen.
+
+Da ist sicher kein Tresor hinter.
+
+Da ist nichts zum schließen.
+
+Ich lasse es da hängen.
+
+Damit würde ich das Bild beschädigen.
+
+Ein grüner Gartenschlauch.
+
+Ich denke den Schlauch brauche ich nicht.
+
+Das kann man nicht schließen.
+
+Ich lasse ihn da liegen.
+
+Damit kann ich hier nichts machen.
+
+Ein alter Chemie-Baukasten.
+
+He, da ist etwas drinnen.
+
+Ein Kerzenschlüssel?
+
+Da ist nichts brauchbares mehr drin.
+
+Ich will den nicht öffnen.
+
+Den möchte ich nicht wieder dort reinlegen.
+
+Ein paar alte Zeitschriften.
+
+Die will ich jetzt nicht öffnen.
+
+Die will ich jetzt nicht schließen.
+
+Ich lasse sie da liegen.
+
+Ein Benzinkanister.
+
+Da ist kein Benzin drin.
+
+Irgendwie überrascht mich das nicht.
+
+Den will ich jetzt nicht öffnen.
+
+Den Kanister zu bewegen bringt rein gar nichts.
+
+Ein umgekippter Superkleber.
+
+Den kann ich nicht nehmen.
+
+Er klebt zu sehr fest.
+
+Da geht es runter.
+
+Ich kann die Luke nicht mitnehmen.
+
+Dann komme ich nicht mehr runter.
+
+Ein Karton.
+
+Der bleibt hier!
+
+Der Karton ist doch zu.
+
+Ich kann den Karton nicht bewegen.
+
+Ein Lautsprecher.
+
+Der ist mir viel zu schwer.
+
+Der Lautsprecher ist doch zu.
+
+Der Lautsprecher ist mir zu schwer.
+
+Ich will den Lautsprecher nicht kaputt machen.
+
+Disco Sucks.
+
+Das bleibt da hängen!
+
+Ich weis nicht wie.
+
+Ich kann es nicht bewegen.
+
+Hey, lass den Benzinkanister da stehen!
+
+Tut mir leid.
+
+Wenn du ihn haben willst, musst du mich im Mortal Kombat besiegen.
+
+Hey das ist aber Street Fighter-Musik!
+
+Upps.
+
+Wir kämpfen trotzdem!
+
+Ähm...du hast weder Arme noch Beine.
+
+Äh... nun... 
+
+Einigen wir uns auf Unentschieden.
+
+Von mir aus kannst du den Kanister haben.
+
+Danke.
+
+Aber nicht vergessen: \"Sollst nicht begehren einer vollgetankten Kettensäge\".
+
+Ich doch nicht!
+
+Bild
+
+Schlauch
+
+Chemie-Baukasten
+
+Zeitschriften
+
+Umgekippter Superkleber
+
+Karton
+
+Lautsprecher
+
+Disco sucks
+
+Man benutzt Türen, indem man sie öffnet oder schließt.
+
+Abgeschlossen.
+
+Ist bereits zu.
+
+Der Schlüssel passt nicht.
+
+Das hilft mir auch nicht dabei, die Tür zu öffnen.
+
+Nur eine leere Abstellkammer.
+
+Ein Telefon. MIT SCHNUR!
+
+Wie telefoniert man gratis? Man benutzt das Telefon eines anderen!
+
+Dafür habe ich ein Handy.
+
+Ich sollte es nur mal wiederfinden.
+
+Würde mit einem Schraubenzieher zwar gehen, aber was würde mir das bringen?
+
+Ein Telefon zu schließen ist keine sonderlich sinnvolle Aktion.
+
+Da bewegt sich rein gar nichts. Außer dem Hörer natürlich.
+
+Was würde ich damit erreichen, wenn ich das Telefon aufschraube?
+
+Diese Dinge möchte ich nicht miteinander benutzen.
+
+Also dann, Augen zu und durch!
+
+Ganz eindeutig der Korb für die schmutzige Wäsche.
+
+Ohne guten Grund fasse ich da nicht rein.
+
+Ich fasse da nicht nochmal rein.
+
+Da gibt es nichts zu öffnen.
+
+Den Korb zu bewegen bringt auch nichts. Da befindet sich nichts drunter.
+
+Das möchte ich nicht dort reinwerfen.
+
+Obergeschoss
+
+Telefon
+
+Wäschekorb
+
+Eine Tür. Daneben ein Eingabefeld.
+
+Mit dem richtigen Code liese sie sich wahrscheinlich öffnen.
+
+Und ich bezweifel, dass es überhaupt einen Schlüssel für diese Tür gibt.
+
+Geht mit der Metallplatte vorne dran nicht.
+
+Außerdem ist da immer noch die Metallplatte.
+
+Würde ich ja gerne, aber die Metallplatte blockiert die Tür.
+
+Die Tür ist schon zu. Auch ohne Metallplatte.
+
+Ich muss es schon mit der Metallplatte benutzen.
+
+Bücher.
+
+Das sind zu viele.
+
+Ich möchte jetzt nicht lesen.
+
+Ich will sie nicht alle öffnen.
+
+Die sind alle geschlossen.
+
+Die lasse ich so stehen.
+
+Das macht kein Sinn.
+
+\"TV-Spülwurm\".
+
+Vorher muss ich es aus dem Regal nehmen.
+
+Das Buch ist bereits zugeklappt.
+
+Das Buch steht bereits an der Wand. Ich kann es nicht noch weiter reindrücken.
+
+\"Die geheimen Tagebücher der Britney B.\"
+
+Ein Buch über Alchemie.
+
+Eine Metallplatte, die die Tür blockiert.
+
+Ich glaube nicht, dass ich das nehmen kann. Die ist an der Wand befesttigt.
+
+Da gibt es nichts, das man öffnen kann.
+
+Da gibt es nichts, das man schließen kann.
+
+Die Platte bewegt sich keinen Meter.
+
+Echt starkes Zeug!
+
+Etwas drüber zu schütten ist keine schlechte Idee.
+
+Aber es müsste schon Säure sein.
+
+Der Schraubenzieher ist zu klein.
+
+Damit bekomme ich die Metallplatte auch nicht weg.
+
+Ein Eingabefeld für einen numerischen Code von der Firma Code:Elite.
+
+Öffnet bei korrekter Eingabe höchstwahrscheinlich die Tür.
+
+Ich möchte die Tür nicht wieder versperren.
+
+Ich möchte das Panel nicht rausreißen.
+
+Selbst wenn ich das Eingabefeld aufschraube, verstehe ich davon zu wenig als das ich es manipulieren könnte.
+
+Ist schon zugeschraubt.
+
+Selbst wenn ich es aufschraube, verstehe ich davon zu wenig als das ich es manipulieren könnte.
+
+Das hilft mir auch nicht weiter.
+
+blaues Heft
+
+grünes Buch
+
+rotes Buch
+
+goldenes Buch
+
+Metallpatte
+
+Eingabefeld
+
+Die Tür ist schon zu.
+
+Ein Tisch.
+
+Da ist nichts zum Öffnen.
+
+Das will ich hier nicht ablegen.
+
+Ein Stuhl.
+
+Den brauche ich nicht.
+
+Vergiss es.
+
+Das macht keinen Sinn.
+
+Ich lasse ihn da stehen.
+
+Ich will die Stühle nicht umschupsen.
+
+Ein Kerzenständer.
+
+Das passt nicht zusammen.
+
+Ein Kerze aus Wachs.
+
+Nichts zu machen. Die Kerze steckt fest.
+
+Ich möchte sie jetzt nicht anzünden.
+
+Die Kerze steckt fest.
+
+Das geht hier nicht.
+
+Tisch
+
+Stuhl
+
+Kerzenständer
+
+linke Kerze
+
+mittlere Kerze
+
+rechte Kerze
+
+Ein Schrank.
+
+Den kann ich nicht mitnehmen.
+
+Der ist zu.
+
+Der ist doch zu.
+
+Es passiert nichts.
+
+Das kann ich hier nicht anwenden.
+
+Eine Mikrowelle.
+
+Die bleibt hier stehen.
+
+Die Mikrowelle ist bereits geschlossen.
+
+Damit es herunter fällt?
+
+Damit geht sie nicht auf.
+
+Ein Kühlschrank.
+
+Den packe ich nicht ein.
+
+Der Kühlschrank ist bereits geschlossen.
+
+Der lässt sich nicht bewegen.
+
+Das kann ich damit nicht benutzen.
+
+Ein Hängeschrank.
+
+Ein Herd.
+
+Der ist hier festgemacht.
+
+Der ist hier nur zur Zierde.
+
+Der Ofen ist bereits geschlossen.
+
+Da passiert nichts.
+
+Das macht hier kein Sinn.
+
+Ein Geschirrspüler.
+
+Ich habe kein dreckiges Geschirr bei mir.
+
+Der Geschirrspüler ist bereits geschlossen.
+
+Ich kann nach draußen sehen.
+
+Ich möchte da nicht raus klettern.
+
+Es lässt sich nicht bewegen.
+
+Damit geht das Fenster nicht auf.
+
+Ich sollte die Schublade erst mal öffnen.
+
+Eine Spüle.
+
+Warum?
+
+Ich muss mir jetzt nicht die Hände waschen.
+
+Dazu gibt es keinen Grund.
+
+Der Abfluss ist bereits montiert.
+
+Fällt dir nichts besseres ein?
+
+Der ist festgemacht.
+
+Das Wasser läuft bereits.
+
+Der Wasserhahn ist doch schon zu.
+
+Das habe ich schon getan.
+
+Den kann ich nicht bewegen.
+
+Ein Mikrowelle.
+
+Dann fällt sie runter.
+
+Das sollte ich da nicht rein tun.
+
+Der ist doch schon offen.
+
+Ich lege nichts in fremde Schränke.
+
+Der Gummihandschuh könnte sich als nützlich erweisen.
+
+Ein Mülleimer.
+
+Da liegt nichts brauchbares mehr drin.
+
+Der Eimer hat keinen Deckel.
+
+Ich möchte den Eimer nicht vorziehen.
+
+Da lässt sich nichts drücken.
+
+Den habe ich doch erst dort rausgefischt.
+
+Den Gegenstand möchte ich nicht wegschmeißen.
+
+Mikrowelle>o
+
+Wasserhahn>u
+
+Eimer
+
+An der Tür fehlt der Türknauf.
+
+Ich muss sie schon öffnen.
+
+Würde ich ja gerne, aber der Türknauf fehlt.
+
+Ohne Türknauf bringt mich der Schraubenzieher auch nicht weiter.
+
+Das bringt mich im Fall \"Fehlender Türknauf\" auch nicht weiter.
+
+Das kann ich nicht nehmen.
+
+Es ist auf.
+
+Das geht nicht zu.
+
+Dieser antike Fernseher soll noch funzen?
+
+Mann, Bernard sollte sich einen neuen kaufen.
+
+Ich bin nicht hergekommen um fernzusehen.
+
+Elektronik ist nicht mein Spezialgebiet.
+
+Er ist schon geschlossen.
+
+Ich will ihn nicht verrücken.
+
+Meine Fernbedienung funktioniert bei einem fremden Fernseher nicht.
+
+Damit geht der Fernseher nicht an.
+
+Ein Bild von einer wunderschönen Karibikinsel.
+
+Ich möchte das Bild nicht klauen.
+
+So eines hatte ich mal in blau.
+
+Habe es aber verkauft und mir stattdessen zwei Sessel gekauft.
+
+Und spätestens jetzt hätte ich ein Problem gehabt. Das Sofa hätte ich nie auf den Speicher rauf gekriegt.
+
+Das ist mir zu schwer.
+
+Ich möchte mich jetzt nicht ausruhen.
+
+Das will ich nicht da ablegen.
+
+Das wird wohl Bernards Schwester sein.
+
+Damit würde ich das Foto beschädigen.
+
+Porzellan.
+
+Ich habe gerade keine Blume zur Hand.
+
+Ich lasse sie da stehen.
+
+Ich will sie nicht kaputt drücken
+
+Damit würde ich die Vase beschädigen.
+
+Ein kleiner Tisch.
+
+Da steht schon was drauf.
+
+Ich lasse den da stehen.
+
+Das kann ich da nicht benutzen.
+
+Wow! Ich sehe gerade wie ... 
+
+Ach, schon gut.
+
+Eine 110 Volt-Steckdose.
+
+Die kann ich nicht mitnehmen.
+
+Es tut sich nichts.
+
+Da passiert auch nichts.
+
+Das passt auch so gut in eine Steckdose.
+
+Eines der wenigen elektronischen Geräte ... 
+
+ ... die selbst Britney bedienen kann.
+
+Gemütlich.
+
+Ich möchte mich nicht setzen.
+
+Ich will es nicht kaputt machen.
+
+Ein Ventilator.
+
+Hier drinnen ist es kühl genug.
+
+Dafür ist er zu groß.
+
+Warum sollte ich ihn woanders hinzustellen?
+
+Das ergibt wenig Sinn.
+
+'Miss Mummy'.
+
+Nein danke, ich stehe auf lebende Frauen.
+
+Das Poster möchte ich nicht haben.
+
+Dahinter ist kein Safe.
+
+Ein Poster zu schließen ergibt keinen Sinn.
+
+Ich kann an dem ganzen Poster rumdrücken, aber es tut sich nichts.
+
+Ein Phonoschrank.
+
+Ich möchte jetzt keine Musik hören.
+
+Der ist zu groß zum mitnehmen.
+
+Besser nicht, sonst schmeiße ich ihn noch um.
+
+Das bringt mich auch nicht weiter.
+
+Sofa
+
+Foto
+
+Vase
+
+kleiner Tisch
+
+linkes Sitzkissen
+
+rechtes Sitzkissen
+
+Ventilator
+
+Miss Mummy
+
+Phonoschrank
+
+Verschlossen.
+
+Kleiderhaken.
+
+Die lässt sich nicht öffnen.
+
+Die lässt sich nicht schließen.
+
+Hnngh.
+
+Das kann ich da nicht anhängen.
+
+Wohnzimmer
+
+Das ist die Adresse, die er mir gegeben hat.
+
+Das sollte es also sein.
+
+Warum ist denn abgeschlossen?
+
+Bernard wollte doch dass ich zu ihm komme?
+
+Mmmh...
+
+Hatte er nicht mal gesagt das er Doors XP verwendet?
+
+Ist XP vielleicht abgestürzt, während er sein System getestet hat?
+
+Zumindest wäre das eine Erklärung.
+
+Ich kann das Wohnzimmer sehen.
+
+Ich möchte da nicht rein klettern.
+
+'Willkommen'
+
+Außer Staub liegt da nichts drunter.
+
+Meine Schuhe sind doch sauber.
+
+Da geht es in die Garage.
+
+Das kann ich nicht mitnehmen.
+
+Das Tor ist geschlossen.
+
+Damit bekomme ich das Tor nicht auf.
+
+Ein Briefkasten.
+
+Den will ich nicht mitnehmen.
+
+Dazu sollte ich ihn vorher öffnen.
+
+Da liegt ein Schlüssel drin.
+
+Da geht es in unsere Garage.
+
+Das Tor ist bereits offen.
+
+Garagetor>o
+
+Briefkasten>o
+
+Garagentor>c
+
+Fähnchen>u
+
