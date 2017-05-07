@@ -29,26 +29,26 @@ enum eDoorNum
 
 struct DoorType
 {
-	String			s_LookAt;
-	String			s_NewLookAt;
-	String			s_IsLocked;
-	String			s_WrongItemOpen;
-	String			s_WrongItemClose;
-	int					i_GlobalInt;
+	String			        s_LookAt;
+	String			        s_NewLookAt;
+	String			        s_IsLocked;
+	String			        s_WrongItemOpen;
+	String			        s_WrongItemClose;
+	int					        i_GlobalInt;
 
-	int					l_Room;
-	int					i_XPosition;
-	int					i_YPosition;
-	eDirection	l_Direction;
-	Hotspot			*h_Hotspot;
-	Object			*o_Objekt;
+	int					        l_Room;
+	int					        i_XPosition;
+	int					        i_YPosition;
+	CharacterDirection	l_Direction;
+	Hotspot			        *h_Hotspot;
+	Object			        *o_Objekt;
 
-	int					l_NewRoom;
-	int					i_NewXPosition;
-	int					i_NewYPosition;
-	eDirection	l_NewDirection;
-	Hotspot			*h_NewHotspot;
-	Object			*o_NewObjekt;
+	int					        l_NewRoom;
+	int					        i_NewXPosition;
+	int					        i_NewYPosition;
+	CharacterDirection	l_NewDirection;
+	Hotspot			        *h_NewHotspot;
+	Object			        *o_NewObjekt;
 	
 	import int SetStrings(String lookat, String islocked, String wrongitemopen,  String wrongitemclose, String lookAt2);
 	import int ClickSpecial(int opensound = 2, int closesound = 3, InventoryItem *iItem, int closevalue = 0);
