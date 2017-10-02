@@ -66,9 +66,9 @@
       <Description xml:space="preserve">Maniac Mansion Mania Episode 38: Rescue Mission</Description>
       <ReleaseDate>2014-09-05</ReleaseDate>
       <Genre>Adventure</Genre>
-      <Version>2.0.2.0</Version>
+      <Version>2.1.0.0</Version>
       <WindowsExperienceIndex>1</WindowsExperienceIndex>
-      <DeveloperName>ConeRX</DeveloperName>
+      <DeveloperName xml:space="preserve">Cone Arex</DeveloperName>
       <DeveloperURL>http://conequest.de</DeveloperURL>
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
@@ -7947,54 +7947,6 @@ stop
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music54.mid</SourceFileName>
-                <ScriptName>aMusic54</ScriptName>
-                <Index>123</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music55.mid</SourceFileName>
-                <ScriptName>aMusic55</ScriptName>
-                <Index>124</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music56.mid</SourceFileName>
-                <ScriptName>aMusic56</ScriptName>
-                <Index>125</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music58.mid</SourceFileName>
-                <ScriptName>aMusic57</ScriptName>
-                <Index>127</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
