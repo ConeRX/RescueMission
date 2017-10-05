@@ -7577,18 +7577,6 @@ stop
                 <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music3.mid</SourceFileName>
-                <ScriptName>aMusic3</ScriptName>
-                <Index>22</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
                 <SourceFileName>music\music30.mid</SourceFileName>
                 <ScriptName>aMusic30</ScriptName>
                 <Index>23</Index>
@@ -7700,18 +7688,6 @@ stop
                 <SourceFileName>music\music39.mid</SourceFileName>
                 <ScriptName>aMusic39</ScriptName>
                 <Index>32</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music4.mid</SourceFileName>
-                <ScriptName>aMusic4</ScriptName>
-                <Index>33</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MIDI</FileType>
