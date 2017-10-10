@@ -1948,7 +1948,7 @@
               <Left>0</Left>
               <Top>0</Top>
               <Clickable>True</Clickable>
-              <Visibility>Normal</Visibility>
+              <Visibility>NormalButInitiallyOff</Visibility>
               <PopupYPos>0</PopupYPos>
               <ZOrder>10</ZOrder>
               <BorderColor>16</BorderColor>
