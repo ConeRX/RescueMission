@@ -64,9 +64,9 @@
       <HasMODMusic>False</HasMODMusic>
       <GameExplorerEnabled>True</GameExplorerEnabled>
       <Description xml:space="preserve">Maniac Mansion Mania Episode 38: Rescue Mission</Description>
-      <ReleaseDate>2014-09-05</ReleaseDate>
+      <ReleaseDate>2018-06-09</ReleaseDate>
       <Genre>Adventure</Genre>
-      <Version>2.0.2.0</Version>
+      <Version>2.0.3.0</Version>
       <WindowsExperienceIndex>1</WindowsExperienceIndex>
       <DeveloperName>ConeRX</DeveloperName>
       <DeveloperURL>http://conequest.de</DeveloperURL>
@@ -75,7 +75,7 @@
       <SaveGameFolderName />
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <AudioIndexer>130</AudioIndexer>
-      <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
+      <BuildTargets>Windows</BuildTargets>
     </Settings>
     <LipSync>
       <Type>None</Type>
@@ -3207,6 +3207,7 @@ GREEN: Von ebay natürlich.
 option-off 2
 return
 @3
+ gAction.Visible=true; gMaingui.Visible=true;
 stop
 ]]></Script>
             <DialogOptions>
@@ -4287,6 +4288,101 @@ stop
                   <Sprite Slot="173" Width="100" Height="120" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                 </Sprites>
               </SpriteFolder>
+              <SpriteFolder Name="Italian">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="216" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00788.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="217" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00789.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="218" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00790.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="219" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00791.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="220" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00792.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="221" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00793.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="222" Width="62" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00794.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="223" Width="62" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00795.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="224" Width="62" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00796.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="225" Width="62" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00797.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="226" Width="62" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00798.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="227" Width="62" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00799.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="228" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00800.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="229" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00801.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="230" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00802.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="231" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00803.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="232" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00804.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="233" Width="38" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\gui\spr00805.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
             </SubFolders>
             <Sprites>
               <Sprite Slot="16" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
@@ -4924,6 +5020,61 @@ stop
                   <Sprite Slot="151" Width="320" Height="107" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\assets\objects\logo.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+            </SubFolders>
+            <Sprites />
+          </SpriteFolder>
+          <SpriteFolder Name="TranslatedGraphic">
+            <SubFolders>
+              <SpriteFolder Name="Italian">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="234" Width="320" Height="200" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\room1-ita.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="235" Width="320" Height="200" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\room18.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="236" Width="31" Height="16" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\egghead.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="237" Width="100" Height="120" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\173 - Società Elite.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="238" Width="40" Height="31" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\476 - area di lavoro.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="239" Width="35" Height="39" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\477 - cartacce.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="240" Width="37" Height="40" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\481 - testi.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="241" Width="301" Height="118" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\479 - prima parte testo.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="242" Width="301" Height="118" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>D:\sprites\480 - seconda parte testo.png</FileName>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -7174,6 +7325,30 @@ stop
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
+                <FileName>Translation.ash</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>1555111696</Key>
+                <IsHeader>True</IsHeader>
+              </Script>
+            </ScriptAndHeader_Header>
+            <ScriptAndHeader_Script>
+              <Script>
+                <FileName>Translation.asc</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>1555111696</Key>
+                <IsHeader>False</IsHeader>
+              </Script>
+            </ScriptAndHeader_Script>
+          </ScriptAndHeader>
+          <ScriptAndHeader>
+            <ScriptAndHeader_Header>
+              <Script>
                 <FileName>Vars.ash</FileName>
                 <Name />
                 <Description />
@@ -7334,7 +7509,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music10.mid</SourceFileName>
@@ -7346,7 +7521,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music11.mid</SourceFileName>
@@ -7358,7 +7533,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music13.mid</SourceFileName>
@@ -7370,7 +7545,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music14.mid</SourceFileName>
@@ -7382,7 +7557,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music15.mid</SourceFileName>
@@ -7394,7 +7569,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music16.mid</SourceFileName>
@@ -7406,7 +7581,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music17.mid</SourceFileName>
@@ -7418,7 +7593,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music18.mid</SourceFileName>
@@ -7430,7 +7605,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music19.mid</SourceFileName>
@@ -7442,7 +7617,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.mid</SourceFileName>
@@ -7454,7 +7629,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.mid</SourceFileName>
@@ -7466,7 +7641,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music21.mid</SourceFileName>
@@ -7478,7 +7653,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music22.mid</SourceFileName>
@@ -7490,7 +7665,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music23.mid</SourceFileName>
@@ -7502,7 +7677,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music24.mid</SourceFileName>
@@ -7514,7 +7689,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music25.mid</SourceFileName>
@@ -7526,7 +7701,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music26.mid</SourceFileName>
@@ -7538,7 +7713,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music27.mid</SourceFileName>
@@ -7550,7 +7725,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music28.mid</SourceFileName>
@@ -7562,7 +7737,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music29.mid</SourceFileName>
@@ -7574,7 +7749,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.mid</SourceFileName>
@@ -7586,7 +7761,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music30.mid</SourceFileName>
@@ -7598,7 +7773,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music31.mid</SourceFileName>
@@ -7610,7 +7785,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music32.mid</SourceFileName>
@@ -7622,7 +7797,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music33.mid</SourceFileName>
@@ -7634,7 +7809,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music34.mid</SourceFileName>
@@ -7646,7 +7821,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music35.mid</SourceFileName>
@@ -7658,7 +7833,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music36.mid</SourceFileName>
@@ -7670,7 +7845,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music37.mid</SourceFileName>
@@ -7682,7 +7857,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music38.mid</SourceFileName>
@@ -7694,7 +7869,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music39.mid</SourceFileName>
@@ -7706,7 +7881,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.mid</SourceFileName>
@@ -7718,7 +7893,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music40.mid</SourceFileName>
@@ -7730,7 +7905,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music41.mid</SourceFileName>
@@ -7742,7 +7917,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music42.mid</SourceFileName>
@@ -7754,7 +7929,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music43.mid</SourceFileName>
@@ -7766,7 +7941,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music44.mid</SourceFileName>
@@ -7778,7 +7953,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music45.mid</SourceFileName>
@@ -7790,7 +7965,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music46.mid</SourceFileName>
@@ -7802,7 +7977,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music47.mid</SourceFileName>
@@ -7814,7 +7989,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music48.mid</SourceFileName>
@@ -7826,7 +8001,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music49.mid</SourceFileName>
@@ -7838,7 +8013,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.mid</SourceFileName>
@@ -7850,7 +8025,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music50.mid</SourceFileName>
@@ -7862,7 +8037,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music51.mid</SourceFileName>
@@ -7874,7 +8049,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music52.mid</SourceFileName>
@@ -7886,7 +8061,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music53.mid</SourceFileName>
@@ -7898,7 +8073,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.mid</SourceFileName>
@@ -7910,7 +8085,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.mid</SourceFileName>
@@ -7922,7 +8097,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.mid</SourceFileName>
@@ -7934,7 +8109,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mid</SourceFileName>
@@ -7946,7 +8121,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music54.mid</SourceFileName>
@@ -7958,7 +8133,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music55.mid</SourceFileName>
@@ -7970,7 +8145,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music56.mid</SourceFileName>
@@ -7982,7 +8157,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Dokumente und Einstellungen\Cone\Eigene Dateien\RescueMission\RescueMission\Music\music58.mid</SourceFileName>
@@ -7994,7 +8169,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-05-07 14:53:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-05-11 21:31:34Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8903,6 +9078,9 @@ stop
       </Translation>
       <Translation>
         <Name>espanol</Name>
+      </Translation>
+      <Translation>
+        <Name>italian</Name>
       </Translation>
     </Translations>
   </Game>
